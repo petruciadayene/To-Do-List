@@ -5,13 +5,20 @@
   
 body {
     background-color: #d3d3d3; 
+    text-align: center;
+}
+
+#nome{
+    text-align: center;
+    font-family: cursive;
+    font-size: xx-large;
 }
 
 h1 {
     text-align: center;
     color: 	#FF6EC7;
     padding: 60px;
-    font-size: "Roboto";
+    font-size: large;
 }
 
 button {
@@ -19,4 +26,10 @@ button {
     color: black;
     background-color: #FF6EC7;
     border-radius: 75px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#lista-tarefas{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
 }
